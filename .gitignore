@@ -1,0 +1,1 @@
+civic_info.key = File.read('secret.key').strip
